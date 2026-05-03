@@ -137,7 +137,7 @@ li::before {
     border-radius: 0px 0px 10px 10px;
 }
 
-.under {
+.externo {
     color: var(--cor04);
     text-decoration: none;
     font-weight: bold;
